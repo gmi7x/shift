@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # prepare useradd
-chmod g+w /etc /etc/passwd /etc/group
+chmod g+w /etc/passwd
 
 # install sudo
 [ -x /usr/bin/apt-get ] && apt-get update && apt-get install -y sudo && apt-get clean

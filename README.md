@@ -1,2 +1,2 @@
-# shift
-ugly hacks for fooling openshift
+# sudo.sh
+hacks for fooling openshift
